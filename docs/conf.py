@@ -51,6 +51,11 @@ source_suffix = '.rst'
 # The master toctree document.
 master_doc = 'index'
 
+.. toctree::
+   :maxdepth: 2
+
+   jaguile-demo
+
 # General information about the project.
 project = 'test'
 copyright = '2016, Juan Aguilera'

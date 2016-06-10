@@ -5,6 +5,7 @@
 
 .. toctree::
    :maxdepth: 2
+   :titlesonly:
 
    jaguile-demo
 
